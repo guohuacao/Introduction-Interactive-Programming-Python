@@ -1,4 +1,4 @@
-# "Pong" mini-project
+# "Spaceship" mini-project
 
 # This code runs under http://www.codeskulptor.org/ with python 2.7
 

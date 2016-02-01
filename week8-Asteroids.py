@@ -1,4 +1,9 @@
-#RiceRocks(Asteroids)
+# "Ricerocks" mini-project
+
+# This code runs under http://www.codeskulptor.org/ with python 2.7
+
+#mini-project description:
+# Implementation of RiceRocks(Asteroids) game
 
 import simplegui
 import math
